@@ -7,6 +7,7 @@ Examples programs are provided in the "Examples" directory of the TURNWAYS-langu
 
 The following is a list of statement types compatible with Turnways.
 
+```
 l   p   i }   w }   b   c   p
 e   r   f     h     r   o   a
 t   i   (     i     e   n   g
@@ -34,3 +35,5 @@ s
 i                            
 o                            
 n                            
+
+````
